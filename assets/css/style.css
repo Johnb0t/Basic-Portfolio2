@@ -254,6 +254,9 @@ input[type=submit] {
 	nav {
 		margin-right: 2.5%;
 	}
+	.work {
+		width: 46.5%;
+	}
 }
 @media only screen and (max-width: 640px) {
 	#logo {
